@@ -1,0 +1,18 @@
+Model Performance Summary
+==================================================
+
+random_forest:
+  CV Score (Mean): 0.9444
+  CV Score (Std): 0.0070
+  Test Score: 0.9625
+------------------------------
+svm:
+  CV Score (Mean): 0.7034
+  CV Score (Std): 0.0141
+  Test Score: 0.7063
+------------------------------
+neural_net:
+  CV Score (Mean): 0.9969
+  CV Score (Std): 0.0028
+  Test Score: 0.9988
+------------------------------
